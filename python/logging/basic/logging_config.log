@@ -1,0 +1,5 @@
+2021-02-01 00:11:27,115 - __main__ - DEBUG - 24720 - 16@logging_config.py - This is A debug.
+2021-02-01 00:11:27,115 - __main__ - INFO - 24720 - 17@logging_config.py - This is A info
+2021-02-01 00:11:27,115 - __main__ - WARNING - 24720 - 18@logging_config.py - This is A warnning.
+2021-02-01 00:11:27,116 - __main__ - ERROR - 24720 - 19@logging_config.py - This is A error.
+2021-02-01 00:11:27,116 - __main__ - CRITICAL - 24720 - 20@logging_config.py - This is A critical

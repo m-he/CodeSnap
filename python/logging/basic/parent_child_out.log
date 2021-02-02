@@ -1,0 +1,8 @@
+From Parent Handler 2021-01-31 20:55:50,822 - A - WARNING - This is A warnning.
+From Parent Handler 2021-01-31 20:55:50,823 - A - ERROR - This is A error.
+From Parent Handler 2021-01-31 20:55:50,823 - A - CRITICAL - This is A critical
+From Parent Handler 2021-01-31 20:55:50,824 - A.a - DEBUG - This is A.a debug.
+From Parent Handler 2021-01-31 20:55:50,841 - A.a - INFO - This is A.a info
+From Parent Handler 2021-01-31 20:55:50,842 - A.a - WARNING - This is A.a warnning.
+From Parent Handler 2021-01-31 20:55:50,843 - A.a - ERROR - This is A.a error.
+From Parent Handler 2021-01-31 20:55:50,843 - A.a - CRITICAL - This is A.a critical

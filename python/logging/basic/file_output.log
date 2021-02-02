@@ -1,0 +1,5 @@
+2021-01-31 18:48:06,024 - __main__ - DEBUG - 6@logging_to_file.py - This is debug.
+2021-01-31 18:48:06,024 - __main__ - INFO - 7@logging_to_file.py - This is info
+2021-01-31 18:48:06,024 - __main__ - WARNING - 8@logging_to_file.py - This is warnning.
+2021-01-31 18:48:06,024 - __main__ - ERROR - 9@logging_to_file.py - This is error.
+2021-01-31 18:48:06,024 - __main__ - CRITICAL - 10@logging_to_file.py - This is critical

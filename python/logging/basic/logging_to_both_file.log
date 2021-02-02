@@ -1,0 +1,5 @@
+2021-01-31 22:49:31,651 - __main__ - DEBUG - 19920 - 19@logging_to_both_console_file.py - This is debug.
+2021-01-31 22:49:31,651 - __main__ - INFO - 19920 - 20@logging_to_both_console_file.py - This is info
+2021-01-31 22:49:31,651 - __main__ - WARNING - 19920 - 21@logging_to_both_console_file.py - This is warnning.
+2021-01-31 22:49:31,652 - __main__ - ERROR - 19920 - 22@logging_to_both_console_file.py - This is error.
+2021-01-31 22:49:31,652 - __main__ - CRITICAL - 19920 - 23@logging_to_both_console_file.py - This is critical
