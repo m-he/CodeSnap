@@ -1,0 +1,25 @@
+version: 1
+formatters:
+  console_fmt:
+    format: "%(asctime)s - %(name)s - %(levelname)s - %(lineno)d@%(filename)s - %(message)s"
+  file_fmt:
+    format: "%(asctime)s - %(name)s - %(levelname)s - %(process)d - %(lineno)d@%(filename)s - %(message)s"
+handlers:
+  console:
+    class : logging.StreamHandler
+    formatter: console_fmt
+    level   : WARNING
+    stream  : ext://sys.stdout
+  file:
+    class : logging.FileHandler
+    formatter: file_fmt
+    level: DEBUG
+    filename: logging_config.log
+loggers:
+  __main__:
+    level: DEBUG
+    handlers:
+      - file
+root:
+  handlers: 
+    - console
